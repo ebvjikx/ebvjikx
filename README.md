@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Ebrima Jikineh**
+- 👋🏾 Hi, I’m **Ebrima Jikineh**
 
 <!---
 ebvjikx/ebvjikx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
