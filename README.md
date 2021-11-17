@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m **Ebrima Jikineh**
+👋🏾 Hi, I’m **Ebrima Jikineh**
     - Comp. Eng @ Concordia University
 
 <!---
