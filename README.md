@@ -1,5 +1,5 @@
 👋🏾 Hi, I’m **Ebrima**
-- Comp. Eng Student @ Concordia University
+- Software Eng. Student @ Concordia University
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebvjikx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
