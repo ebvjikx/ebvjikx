@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[linkedin]: linkedin.com/in/ebrima-jikineh/
+[linkedin]: https://linkedin.com/in/ebrima-jikineh/
